@@ -1,6 +1,6 @@
-aws_region = "ap-southeast-2"
+aws_region = "my-region"
 
-bucket_name = "deepovi-164-dev-2026-001"
+bucket_name = "my-bucket-dev"
 
 ami_id = "ami-xxxxxxxxxxxxxxxxx"
 
